@@ -1,1 +1,7 @@
-Elevate 401k Scraper
+# Elevate 401k Scraper
+
+Usage:
+
+```
+node index.js
+```
